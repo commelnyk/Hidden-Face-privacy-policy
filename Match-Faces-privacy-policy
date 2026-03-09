@@ -1,0 +1,74 @@
+# Match Faces – Privacy Policy
+
+**Effective Date:** March 10, 2026
+
+Match Faces (“the App”) respects your privacy. This Privacy Policy explains how information is handled when you use the App.
+
+## 1. Information Collection
+
+The App does **not collect, store, transmit, or share any personal data**.
+
+All photos selected by the user and all camera images are processed **locally on your device only**. The App does not send images, facial data, or any other information to external servers, cloud services, or third parties.
+
+## 2. Image Processing
+
+The App allows users to:
+
+* Load photos from their device
+* Use the front or rear camera to detect faces
+* Compare facial features
+
+When a face is detected, the App calculates similarity values between facial features such as:
+
+* Eyes
+* Nose
+* Lips
+* Overall facial similarity
+
+These calculations occur **entirely on the user's device** and are not saved after the comparison session.
+
+The App may display visual overlays such as animated points on detected faces to illustrate feature detection.
+
+## 3. Data Storage
+
+The App **does not store**:
+
+* Photos
+* Facial data
+* Biometric identifiers
+* User accounts
+* Usage history
+
+Any images used in the App remain on your device and are handled by the operating system.
+
+## 4. Third-Party Services
+
+The App **does not use third-party analytics, tracking systems, or advertising services**.
+
+## 5. Entertainment Purpose and Disclaimer
+
+Match Faces is created **for entertainment purposes only**.
+
+Similarity results shown in the App are **approximate and not scientifically accurate**. The calculations should not be considered reliable measurements of identity, resemblance, or biometric verification.
+
+The developers of the App:
+
+* do **not guarantee accuracy** of similarity calculations
+* are **not responsible for decisions made based on the results**
+* provide the App **“as is” without warranties or guarantees**
+
+By using the App, users acknowledge that all results are informational and for entertainment only.
+
+## 6. Children's Privacy
+
+The App does not knowingly collect personal data from anyone, including children.
+
+## 7. Changes to This Privacy Policy
+
+This Privacy Policy may be updated in the future. Any changes will be reflected on this page with an updated effective date.
+
+## 8. Contact
+
+If you have questions regarding this Privacy Policy, you may contact the developer at:
+
+com.melnyk@gmail.com
